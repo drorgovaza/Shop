@@ -1,0 +1,144 @@
+body {
+margin: 0;
+padding: 0 4%; 
+background-color: #e4f9ff;
+}
+.row{
+  color: #eeeeee;
+  
+}
+#rowhead{
+  text-align: center;
+  margin-top: 90px;
+  padding-left: 50px;
+
+}
+.blog-header-logo{
+  font-size: 50px;
+  list-style: none;
+  color: black;
+  filter: drop-shadow(0px 2px 5px black);
+
+font-family: 'Bebas Neue', cursive;
+}
+h2 ,  .fa-2x , .king , .panel-heading  , label , .boxBtn ,.panel-heading {
+  color: black;
+}
+
+
+.order-title{
+  text-align: center;
+  align-items: center;
+}
+.p-2 {
+  font-size: 1.5rem;
+  font-family: 'Ubuntu', sans-serif; 
+  color: white;
+}
+
+
+/* section 2 */
+.fi img{
+  width:240px;
+  height:230px;
+  border-radius: 100%;
+  filter: drop-shadow(0px 2px 10px black);
+  margin: 0 auto;
+  
+
+}
+
+
+.btn{
+color: white;
+font-family: 'Bebas Neue', cursive;
+font-size: 22px;
+margin-top: 40px;
+
+}
+.title-img{
+  margin: 0 12px;
+  cursor: pointer;
+}
+.SEC{
+  margin-top: 8%;
+}
+.containerFooter{
+  height: 30%;
+  width: 100%;
+background: gray;
+  text-align: center;
+}
+
+.footer-text{
+  color: black;
+  font-family: 'Bebas Neue', cursive;
+  font-size: 29px; 
+   padding: 12px 2px;
+}
+.Crown , .faTwitter ,.faAmazon, .faTelegram , .faFacebook{ 
+  margin: 0 25px;
+}
+
+.faFacebook{
+  color: #4267B2;
+
+}
+.faTwitter{
+color: #1DA1F2;
+}
+.faTelegram{
+  color: #0088cc;
+}
+.faAmazon{
+  color: #FF9900;
+}
+.Crown{
+  color: black;
+  filter: drop-shadow(0px 2px 1px black);
+
+}
+
+.card-text{
+    font-family: 'Bebas Neue', cursive;
+    color:black;
+}
+.card-img-top{
+width:100%; 
+height:100%;
+}
+.card-img-top img{
+width:100%;
+height:100%;
+
+}
+
+.btn-group button{
+  margin: 5%;
+}
+.payment{
+  /* width: 100vh; */
+  position: relative;
+   left: 20%;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid white;
+}
+.payment{
+  width: 60vh;
+  height: 70vh;
+}
+.imgDev{
+  position: relative;
+}
+.imgDev img{
+  bottom: 30%;
+  left: 600px;
+  position: absolute;
+  width: 500px;
+  height: 520px;
+  opacity: 0.3;
+}
+.imgDev :hover{
+  opacity: 1;
+}
